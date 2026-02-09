@@ -1,0 +1,25 @@
+{
+  "name": "MARZ",
+  "symbol": "MARZ",
+  "description": "To be extremely frank, this is a game-based project. Each level will award rewards (MARZ) based on completed tasks and member ad viewing (game ad revenue will be shared). There will be in-app trading. And of course, there's a surprise for the patient! This project may be new, but it's not a bubble.",
+  "image": "https://raw.githubusercontent.com/arzmas9-wq/marz-assets/main/marz-token.png",
+  "external_url": "https://www.marztokens.com/",
+  "attributes": [
+    {
+      "trait_type": "Email",
+      "value": "zarm@marztokens.com"
+    },
+    {
+      "trait_type": "X",
+      "value": "https://x.com/marztokens"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/arzmas9-wq/marz-assets/main/marz-token.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
